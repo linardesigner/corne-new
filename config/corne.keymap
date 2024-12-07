@@ -60,9 +60,9 @@
         layer_3 {
             bindings = <
 &kp ESC         &kp W    &kp E      &kp R         &kp X         &kp P           &trans  &trans  &trans  &trans  &trans  &trans
-&kp A           &kp S    &kp D      &kp NUMBER_5  &kp NUMBER_9  &kp NUMBER_0    &trans  &trans  &trans  &trans  &trans  &trans
+&kp A           &kp S    &kp D      &kp NUMBER_5  &kp F         &kp NUMBER_0    &trans  &trans  &trans  &trans  &trans  &trans
 &kp LEFT_SHIFT  &kp TAB  &kp LCTRL  &kp NUMBER_4  &kp NUMBER_7  &kp NUMBER_8    &trans  &trans  &trans  &trans  &trans  &trans
-                                    &kp LEFT_ALT  &kp SPACE     &kp LEFT_WIN    &to 0   &trans  &trans
+                                    &kp SPACE     &kp LEFT_ALT  &kp LEFT_WIN    &to 0   &trans  &trans
             >;
         };
     };
