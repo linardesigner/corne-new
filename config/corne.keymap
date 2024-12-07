@@ -38,7 +38,7 @@
 &kp F1     &kp F2      &kp F3        &kp F4        &kp F5           &kp F6          &kp PG_UP       &kp PSCRN     &kp NUMBER_0  &kp NUMBER_7  &kp N8        &kp NUMBER_9
 &kp F7     &kp F8      &kp F9        &kp F10       &kp F11          &kp F12         &kp PAGE_DOWN   &kp DOWN      &kp UP        &kp NUMBER_4  &kp N5        &kp NUMBER_6
 &kp LSHFT  &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &kp C_VOLUME_UP  &kp C_VOL_DN    &kp LEFT_ARROW  &kp UP_ARROW  &kp RIGHT     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3
-                                     &mo 0         &trans           &kp SPACE       &kp RET         &trans        &mo 0
+                                     &mo 3         &trans           &kp SPACE       &kp RET         &trans        &mo 0
             >;
         };
 
