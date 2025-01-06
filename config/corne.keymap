@@ -35,7 +35,7 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB        &bt BT_CLR     &kp LC(LA(LG(W)))  &kp F5        &kp F10          &kp C_POWER      &kp HOME        &kp UP_ARROW    &kp NUMBER_0     &kp NUMBER_7  &kp N8        &kp NUMBER_9
+&kp TAB        &bt BT_PAIR     &kp LC(LA(LG(W)))  &kp F5        &kp F10          &kp C_POWER      &kp HOME        &kp UP_ARROW    &kp NUMBER_0     &kp NUMBER_7  &kp N8        &kp NUMBER_9
 &kp LEFT_ALT   &kp LC(LS(S))  &kp LG(LS(S))      &kp F10       &kp F11          &kp F12          &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp NUMBER_4  &kp N5        &kp NUMBER_6
 &kp LA(LSHFT)  &bt BT_CLR     &bt BT_SEL 0       &bt BT_SEL 1  &kp C_VOLUME_UP  &kp C_VOL_DN     &kp PG_UP       &kp PAGE_DOWN   &kp NUMBER_0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3
                                                  &to 3         &trans           &kp LG(LS(S))    &kp RET         &trans          &mo 0
